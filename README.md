@@ -22,9 +22,3 @@ Queries include:
 3. Top 15 roads by Pedal_Cycles_12hr
 4. Average LGV % by road type (A, B, U roads)
 5. Average OGV % by road type
-
- How to Run
-1. Import the dataset into MySQL:
-   ```sql
-   CREATE DATABASE traffic_flow;
-   USE traffic_flow;
